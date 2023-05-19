@@ -5,10 +5,9 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to say hello
     steps:
+      - uses: action/checkout@v3
       - id: foo
-        uses: Prime2386/customaction@v1
+        uses: Prime2386/customname@v1
         with:
           who-to-greet: 'Mona the Octocat'
       - run: echo random-number ${{ steps.foo.outputs.random-number }}
-        shell: bash
-
