@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to say hello
     steps:
-      - uses:Prime2386/customaction@v1
+      - uses:action/checkout@v3
       - id: foo
         uses: Prime2386/customaction@v1
         with:
