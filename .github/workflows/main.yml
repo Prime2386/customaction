@@ -1,4 +1,3 @@
-
 on: [push]
 
 jobs:
@@ -12,4 +11,7 @@ jobs:
           who-to-greet: 'Mona the Octocat'
       - run: echo random-number ${{ steps.foo.outputs.random-number }}
         shell: bash
+      - run: echo "Goodbye"
+        shell: bash
+
 
