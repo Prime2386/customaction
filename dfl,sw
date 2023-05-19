@@ -1,0 +1,66 @@
+[33mcommit afea4c10a83e0d50efd6effbe72decd32a90748b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Sanju Jacob <sanju.jacob@invenics.com>
+Date:   Fri May 19 16:46:49 2023 +0530
+
+    Changed file name
+
+[33mcommit 610ae4b65092d15b474ad64e29ed2c0f35d336ec[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7105736 3883a27
+Author: Sanju Jacob <sanju.jacob@invenics.com>
+Date:   Fri May 19 15:18:21 2023 +0530
+
+    Merge branch 'main' of https://github.com/Prime2386/customaction
+
+[33mcommit 3883a276a65a5c086ee77f26f7995a7986ac0a08[m
+Author: Prime2386 <129845691+Prime2386@users.noreply.github.com>
+Date:   Fri May 19 15:13:03 2023 +0530
+
+    Update main.yml
+
+[33mcommit 7105736c270f4845eca2e4d17ff7575f1c43a6ca[m
+Author: Sanju Jacob <sanju.jacob@invenics.com>
+Date:   Fri May 19 15:03:07 2023 +0530
+
+    Added a line
+
+[33mcommit fe72814f1c7554e77feb27b8b43980b5d586fab4[m
+Author: Prime2386 <129845691+Prime2386@users.noreply.github.com>
+Date:   Fri May 19 14:51:02 2023 +0530
+
+    Update main.yml
+
+[33mcommit dfef1645cb90d670aa2037c8bd933728ce5e1cc6[m
+Author: Prime2386 <129845691+Prime2386@users.noreply.github.com>
+Date:   Fri May 19 14:41:59 2023 +0530
+
+    Update main.yml
+
+[33mcommit 428d526981a4a624b068414ff8f81a0d07c345c7[m
+Author: Prime2386 <129845691+Prime2386@users.noreply.github.com>
+Date:   Fri May 19 14:18:43 2023 +0530
+
+    Update main.yml
+
+[33mcommit e852c14466ced7b34fd6533923a932244d197d68[m
+Author: Prime2386 <129845691+Prime2386@users.noreply.github.com>
+Date:   Fri May 19 14:17:01 2023 +0530
+
+    Update main.yml
+
+[33mcommit 22682c861160b83b2d766a48e5d6badd82ca13e4[m
+Author: Prime2386 <129845691+Prime2386@users.noreply.github.com>
+Date:   Fri May 19 14:08:21 2023 +0530
+
+    Create main.yml
+
+[33mcommit 50a2b20a0ff44bd352805ddc8808277e6f915465[m[33m ([m[1;33mtag: v1[m[33m)[m
+Author: Sanju Jacob <sanju.jacob@invenics.com>
+Date:   Fri May 19 11:54:56 2023 +0530
+
+    Add action
+
+[33mcommit b907c46befebb4f5e3c56cd5f4046838e74cd77f[m
+Author: Prime2386 <129845691+Prime2386@users.noreply.github.com>
+Date:   Thu May 18 18:58:22 2023 +0530
+
+    Initial commit
